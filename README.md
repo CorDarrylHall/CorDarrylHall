@@ -7,4 +7,5 @@
 - 😄 Pronouns:(He/Him)
 - ⚡ Fun fact: Served 8 years in the military (Mostly onboard a submarine!)
 - 💻 Check out my rising Data Science Portfolio : https://cordarrylhall-portfolio.netlify.app/
+
 -->
